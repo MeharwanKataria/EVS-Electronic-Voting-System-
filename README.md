@@ -5,4 +5,4 @@ Voters can securely log in, cast their votes, and have their selections saved in
 #### Team Members
 ##### Mehrwan	            k240864	
 ###### Ghulam Murtaza      K240720	
-####### Sanaullah	          k240954
+###### Sanaullah	          k240954
